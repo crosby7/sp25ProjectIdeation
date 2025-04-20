@@ -43,3 +43,9 @@ This project would have a handful of relevant pages:
   - This is part of a rotunda mural series, other pieces could be described, linked to, and explained here
 
 ### Design Choices
+
+[The Louvre](https://www.louvre.fr/en)
+[Eiteljorg](https://eiteljorg.org/)
+[Newfields](https://discovernewfields.org/)
+
+I love the animation and parallax effects these sites use. I also love the use of zoomed-in pieces as backdrops for site content. I would like to use both of these in my site.
