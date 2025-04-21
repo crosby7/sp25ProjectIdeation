@@ -1,3 +1,4 @@
+
 # N320 Project Ideation
 
 Cameron Crosby
@@ -23,3 +24,8 @@ Here are just a few core webpages I'd like to include for this proposed project:
   - Modern usage and artists
 
 ### Design Choices
+[The Louvre](https://www.louvre.fr/en)
+[Eiteljorg](https://eiteljorg.org/)
+[Newfields](https://discovernewfields.org/)
+
+Similar to my Design Choices from my submission for N413, I'd like to mimic the parallaxing effects and the interspercing of video and audio to improve the learning experience for visitors of the site.
